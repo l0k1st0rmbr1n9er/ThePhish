@@ -7,11 +7,11 @@
 		"folder" : "inbox"
 	},
 	"thehive" : {
-		"url" : "http://thehive:9000",
+		"url" : "http://thehive:19000",
 		"apikey" : ""
 	},
 	"cortex" : {
-		"url" : "http://cortex:9001",
+		"url" : "http://cortex:19001",
 		"apikey" : "",
 		"id" : "local"
 	},
